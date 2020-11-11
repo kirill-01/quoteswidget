@@ -1,6 +1,6 @@
 {
   "name": "quoteswidget",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Display info widget with current cryptocurrency rates",
   "main": "widget.js",
   "scripts": {
