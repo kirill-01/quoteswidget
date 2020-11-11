@@ -1,0 +1,27 @@
+{
+  "name": "quoteswidget",
+  "version": "1.0.0",
+  "description": "Display info widget with current cryptocurrency rates",
+  "main": "widget.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "rates",
+    "widget"
+  ],
+  "devDependencies": {
+    "css-minimizer-webpack-plugin": "^1.1.5",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  },
+  "author": "Kirill Kuznetsov",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kirill-01/quoteswidget.git"
+  },
+  "homepage": "https://github.com/kirill-01/quoteswidget.git"
+}
